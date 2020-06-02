@@ -1,0 +1,16 @@
+2020-06-02 16:03:03,869 ERROR 16244 nodejs.ClusterClientNoResponseError: client no response in 1553161ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 16244
+hostname: LAPTOP-KV9DE7QA
+
+2020-06-02 17:35:37,069 ERROR 15388 nodejs.ClusterClientNoResponseError: client no response in 4459822ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 15388
+hostname: LAPTOP-KV9DE7QA
+

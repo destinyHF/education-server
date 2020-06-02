@@ -1,0 +1,1708 @@
+2020-05-29 09:07:19,338 ERROR 11212 [egg-redis] client error: Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+2020-05-29 09:07:19,340 ERROR 11212 nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "ECONNRESETError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:21,393 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:21,395 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:23,501 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:23,502 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:25,660 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:25,661 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:27,865 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:27,868 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:30,125 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:30,126 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:32,430 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:32,432 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:34,788 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:34,791 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:37,201 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:37,204 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:39,664 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:39,665 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:42,175 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:42,176 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:44,731 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:44,732 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:47,336 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:47,336 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:49,991 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:49,992 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:52,695 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:52,696 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:55,453 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:55,455 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:07:58,262 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:07:58,265 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:08:01,123 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:08:01,124 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:08:04,029 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:08:04,031 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:08:06,989 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:08:06,991 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 09:08:09,996 ERROR 11212 [egg-redis] client error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-05-29 09:08:09,998 ERROR 11212 nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 6379
+name: "ECONNREFUSEDError"
+pid: 11212
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 10:01:59,912 ERROR 1712 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\controller\\static"
+name: "EPERMError"
+pid: 1712
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 10:28:09,236 ERROR 856 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError: Can't find home/index.html from C:\houfei-file\project\egg-example\app\view
+    at Map.resolve (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\view_manager.js:74:5)
+    at async ContextView.[contextView#render] (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\context_view.js:50:22)
+    at async HomeController.index (C:\houfei-file\project\egg-example\app\controller\home.js:9:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 856
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 10:32:16,734 ERROR 17296 [-/127.0.0.1/-/6ms GET /] nodejs.AssertionError: Can't find viewEngine for C:\houfei-file\project\egg-example\app\view\home\index.html
+    at ContextView.[contextView#render] (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (C:\houfei-file\project\egg-example\app\controller\home.js:9:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\houfei-file\project\egg-example\node_modules\koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17296
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 11:12:58,868 ERROR 12424 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\css"
+name: "EPERMError"
+pid: 12424
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 11:12:58,870 ERROR 12424 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\js"
+name: "EPERMError"
+pid: 12424
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 13:45:29,631 ERROR 1684 nodejs.ClusterClientNoResponseError: client no response in 5086617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:04:57,440 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\controller"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:22,986 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\ansi-regex"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:22,988 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\ansi-styles"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:22,991 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\chalk"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:22,995 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\escape-string-regexp"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:22,997 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\has-ansi"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:23,000 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\hash-sum"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:23,003 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\he\\bin"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:23,005 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\he\\man"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,301 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\he"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,305 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\lodash.templatesettings"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,307 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\lodash.uniq"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,308 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\lodash._reinterpolate"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,317 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\path-parse"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,318 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\example"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:05:41,323 ERROR 1684 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\lib"
+name: "EPERMError"
+pid: 1684
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,093 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\dotdot"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,101 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\xmodules\\aaa"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,103 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\ymodules\\aaa"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,106 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\zmodules\\bbb"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,107 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\zmodules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,116 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\x\\aaa"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,120 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\x\\ccc"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,122 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\x"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,128 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\y\\bbb"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,133 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\y\\ccc"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,134 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path\\y"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,136 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\node_path"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,144 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\pathfilter\\deep_ref"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,152 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\precedence\\aaa"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,156 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\precedence\\bbb"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,160 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\precedence"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,169 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\baz"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,175 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\browser_field"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,180 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\dot_main"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,186 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\dot_slash_main"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,190 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\incorrect_main"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,194 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\invalid_main"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,202 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\multirepo\\packages\\package-a"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,206 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\multirepo\\packages\\package-b"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,208 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\multirepo\\packages"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,209 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\multirepo"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,215 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\nested_symlinks\\mylib"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,223 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\other_path\\lib"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,224 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\other_path"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,229 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\quux\\foo"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,231 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\quux"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,237 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\same_names\\foo"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,238 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\same_names"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,243 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\symlinked\\package"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,252 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\symlinked\\_\\symlink_target"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,253 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\symlinked\\_"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,255 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\symlinked"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,258 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver\\without_basedir"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,259 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\resolver"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,265 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\shadowed_core\\node_modules\\util"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,267 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\shadowed_core"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,273 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\serialize-javascript"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,295 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\strip-ansi"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,300 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\supports-color"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,315 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\dist"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,326 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\compiler\\codegen"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,332 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\compiler\\directives"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,338 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\compiler"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,345 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\components"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,351 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\global-api"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,354 ERROR 13808 nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\core\global-api'
+ENOENTError: ENOENT: no such file or directory, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\core\global-api'
+errno: -4058
+code: "ENOENT"
+syscall: "scandir"
+path: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\global-api"
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\global-api"
+name: "ENOENTError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,366 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\instance\\render-helpers"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,372 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\observer"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,381 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\util"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,393 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\vdom\\helpers"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,397 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\vdom"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,419 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\compiler\\modules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,429 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\runtime\\components"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,433 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\runtime\\directives"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,448 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\server\\directives"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,454 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\server\\modules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,461 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\util"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,472 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\directives"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,484 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,486 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,487 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+errno: -4048
+code: "EPERM"
+syscall: "scandir"
+path: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,487 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+errno: -4048
+code: "EPERM"
+syscall: "scandir"
+path: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,488 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+EPERMError: EPERM: operation not permitted, scandir 'C:\houfei-file\project\egg-example\app\public\node_modules\vue\src\platforms\weex\compiler\modules\recycle-list'
+errno: -4048
+code: "EPERM"
+syscall: "scandir"
+path: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler\\modules\\recycle-list"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,495 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\runtime\\components"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,499 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\runtime\\directives"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,509 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\runtime\\recycle-list"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,526 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\server\\bundle-renderer"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,531 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\server\\optimizing-compiler"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,540 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\server"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,543 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\sfc"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,547 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\shared"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,565 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue-server-renderer\\types"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:24,566 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue-server-renderer"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,541 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\xmodules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,547 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir\\ymodules"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,551 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\module_dir"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,554 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test\\pathfilter"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,556 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve\\test"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,559 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\resolve"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,563 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\source-map"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,570 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core\\instance"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,572 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\core"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,579 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web\\runtime"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,582 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\web"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,587 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex\\compiler"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,591 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms\\weex"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,595 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src\\platforms"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,600 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue\\src"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 14:15:50,603 ERROR 13808 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\public\\node_modules\\vue"
+name: "EPERMError"
+pid: 13808
+hostname: LAPTOP-KV9DE7QA
+
+2020-06-01 18:12:29,548 ERROR 1200 nodejs.ClusterClientNoResponseError: client no response in 3195849ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1200
+hostname: LAPTOP-KV9DE7QA
+
+2020-06-01 21:15:04,708 ERROR 1200 nodejs.ClusterClientNoResponseError: client no response in 10813857ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1200
+hostname: LAPTOP-KV9DE7QA
+
+2020-06-02 08:49:55,791 ERROR 1200 nodejs.ClusterClientNoResponseError: client no response in 41690496ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1200
+hostname: LAPTOP-KV9DE7QA
+

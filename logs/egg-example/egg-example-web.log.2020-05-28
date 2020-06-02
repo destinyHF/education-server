@@ -1,0 +1,191 @@
+2020-05-28 14:02:21,805 WARN 10164 [-/127.0.0.1/-/39ms POST /auth/login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:02:21,807 WARN 10164 [-/127.0.0.1/-/40ms POST /auth/login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 10164
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:03:09,123 WARN 10164 [-/127.0.0.1/-/1ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:03:09,123 WARN 10164 [-/127.0.0.1/-/1ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 10164
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:03:27,745 WARN 10164 [-/127.0.0.1/-/1ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:03:27,746 WARN 10164 [-/127.0.0.1/-/2ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 10164
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:04:07,567 WARN 1044 [-/127.0.0.1/-/2ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:04:07,569 WARN 1044 [-/127.0.0.1/-/3ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 1044
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:04:29,011 WARN 17924 [-/127.0.0.1/-/16ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:04:29,014 WARN 17924 [-/127.0.0.1/-/19ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 17924
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:26:46,431 WARN 17924 [-/127.0.0.1/-/1ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:26:46,431 WARN 17924 [-/127.0.0.1/-/2ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 17924
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:26:57,654 WARN 17924 [-/127.0.0.1/-/1ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:26:57,654 WARN 17924 [-/127.0.0.1/-/2ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 17924
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:30:13,494 WARN 17924 [-/127.0.0.1/-/1ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:30:13,494 WARN 17924 [-/127.0.0.1/-/1ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 17924
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:30:20,946 WARN 17924 [-/127.0.0.1/-/4ms POST /user/create] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:30:20,947 WARN 17924 [-/127.0.0.1/-/5ms POST /user/create] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 17924
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:36:19,174 WARN 5108 [-/127.0.0.1/-/21ms POST /auth/login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:36:19,175 WARN 5108 [-/127.0.0.1/-/23ms POST /auth/login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 5108
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 14:40:37,820 WARN 5108 [-/127.0.0.1/-/1ms POST /auth/login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-05-28 14:40:37,821 WARN 5108 [-/127.0.0.1/-/1ms POST /auth/login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\houfei-file\project\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\houfei-file\project\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\houfei-file\project\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 5108
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 17:06:39,662 ERROR 228 [-/127.0.0.1/-/19ms POST /auth/login] nodejs.Error: Invalid IV length
+    at Cipheriv.createCipherBase (internal/crypto/cipher.js:103:19)
+    at Cipheriv.createCipherWithIV (internal/crypto/cipher.js:121:20)
+    at new Cipheriv (internal/crypto/cipher.js:225:22)
+    at Object.createCipheriv (crypto.js:117:10)
+    at Function.Encrypt (C:\houfei-file\project\egg-example\app\extend\utility\aes.js:34:25)
+    at module.exports.login (C:\houfei-file\project\egg-example\app\controller\auth.js:7:38)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+
+pid: 228
+hostname: LAPTOP-KV9DE7QA
+

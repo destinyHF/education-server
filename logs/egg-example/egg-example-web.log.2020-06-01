@@ -1,0 +1,38 @@
+2020-05-29 10:28:09,237 ERROR 856 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError: Can't find home/index.html from C:\houfei-file\project\egg-example\app\view
+    at Map.resolve (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\view_manager.js:74:5)
+    at async ContextView.[contextView#render] (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\context_view.js:50:22)
+    at async HomeController.index (C:\houfei-file\project\egg-example\app\controller\home.js:9:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 856
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-29 10:32:16,734 ERROR 17296 [-/127.0.0.1/-/6ms GET /] nodejs.AssertionError: Can't find viewEngine for C:\houfei-file\project\egg-example\app\view\home\index.html
+    at ContextView.[contextView#render] (C:\houfei-file\project\egg-example\node_modules\egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (C:\houfei-file\project\egg-example\app\controller\home.js:9:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\houfei-file\project\egg-example\node_modules\koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17296
+hostname: LAPTOP-KV9DE7QA
+

@@ -1,0 +1,111 @@
+2020-06-02 08:49:56,126 INFO 8360 [egg-logrotator] app logger reload: got log-reload message
+2020-06-02 14:20:48,913 INFO 6244 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 14:20:48,938 INFO 6244 [egg-multipart] stream mode enable
+2020-06-02 14:20:48,946 INFO 6244 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 14:20:50,249 INFO 6244 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 14:20:50,921 INFO 6244 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 14:20:50,931 INFO 6244 [egg-security] use methodnoallow middleware
+2020-06-02 14:20:50,939 INFO 6244 [egg-security] use noopen middleware
+2020-06-02 14:20:50,948 INFO 6244 [egg-security] use nosniff middleware
+2020-06-02 14:20:50,954 INFO 6244 [egg-security] use xssProtection middleware
+2020-06-02 14:20:50,961 INFO 6244 [egg-security] use xframe middleware
+2020-06-02 14:20:50,967 INFO 6244 [egg-security] use dta middleware
+2020-06-02 14:20:50,967 INFO 6244 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 14:20:51,018 INFO 6244 [egg:core] dump config after load, 22ms
+2020-06-02 14:20:51,029 INFO 6244 [egg-redis] client connect success
+2020-06-02 14:20:51,033 INFO 6244 [egg-redis] instance[0] status OK, client ready
+2020-06-02 14:20:51,034 INFO 6244 [egg-watcher:application] watcher start success
+2020-06-02 14:20:51,117 INFO 6244 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 14:20:51 GMT+0800 (GMT+08:00)
+2020-06-02 14:20:51,183 INFO 6244 [egg:core] dump config after ready, 60ms
+2020-06-02 14:59:08,384 INFO 1696 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 14:59:08,482 INFO 1696 [egg-multipart] stream mode enable
+2020-06-02 14:59:08,490 INFO 1696 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 14:59:09,871 INFO 1696 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 14:59:10,518 INFO 1696 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 14:59:10,527 INFO 1696 [egg-security] use methodnoallow middleware
+2020-06-02 14:59:10,535 INFO 1696 [egg-security] use noopen middleware
+2020-06-02 14:59:10,542 INFO 1696 [egg-security] use nosniff middleware
+2020-06-02 14:59:10,549 INFO 1696 [egg-security] use xssProtection middleware
+2020-06-02 14:59:10,556 INFO 1696 [egg-security] use xframe middleware
+2020-06-02 14:59:10,563 INFO 1696 [egg-security] use dta middleware
+2020-06-02 14:59:10,563 INFO 1696 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 14:59:10,622 INFO 1696 [egg:core] dump config after load, 23ms
+2020-06-02 14:59:10,635 INFO 1696 [egg-redis] client connect success
+2020-06-02 14:59:10,640 INFO 1696 [egg-redis] instance[0] status OK, client ready
+2020-06-02 14:59:10,643 INFO 1696 [egg-watcher:application] watcher start success
+2020-06-02 14:59:10,649 INFO 1696 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 14:59:10 GMT+0800 (GMT+08:00)
+2020-06-02 14:59:10,677 INFO 1696 [egg:core] dump config after ready, 26ms
+2020-06-02 16:03:03,866 WARN 1696 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-02 16:07:46,707 INFO 4252 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 16:07:46,732 INFO 4252 [egg-multipart] stream mode enable
+2020-06-02 16:07:46,733 INFO 4252 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 16:07:46,815 INFO 4252 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 16:07:46,883 INFO 4252 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 16:07:46,888 INFO 4252 [egg-security] use methodnoallow middleware
+2020-06-02 16:07:46,888 INFO 4252 [egg-security] use noopen middleware
+2020-06-02 16:07:46,889 INFO 4252 [egg-security] use nosniff middleware
+2020-06-02 16:07:46,889 INFO 4252 [egg-security] use xssProtection middleware
+2020-06-02 16:07:46,890 INFO 4252 [egg-security] use xframe middleware
+2020-06-02 16:07:46,890 INFO 4252 [egg-security] use dta middleware
+2020-06-02 16:07:46,890 INFO 4252 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 16:07:46,918 INFO 4252 [egg:core] dump config after load, 22ms
+2020-06-02 16:07:46,928 INFO 4252 [egg-redis] client connect success
+2020-06-02 16:07:46,930 INFO 4252 [egg-redis] instance[0] status OK, client ready
+2020-06-02 16:07:46,932 INFO 4252 [egg-watcher:application] watcher start success
+2020-06-02 16:07:46,937 INFO 4252 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 16:07:46 GMT+0800 (GMT+08:00)
+2020-06-02 16:07:46,970 INFO 4252 [egg:core] dump config after ready, 31ms
+2020-06-02 16:14:43,624 INFO 7008 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 16:14:43,648 INFO 7008 [egg-multipart] stream mode enable
+2020-06-02 16:14:43,650 INFO 7008 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 16:14:43,730 INFO 7008 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 16:14:43,794 INFO 7008 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 16:14:43,799 INFO 7008 [egg-security] use methodnoallow middleware
+2020-06-02 16:14:43,799 INFO 7008 [egg-security] use noopen middleware
+2020-06-02 16:14:43,800 INFO 7008 [egg-security] use nosniff middleware
+2020-06-02 16:14:43,800 INFO 7008 [egg-security] use xssProtection middleware
+2020-06-02 16:14:43,801 INFO 7008 [egg-security] use xframe middleware
+2020-06-02 16:14:43,801 INFO 7008 [egg-security] use dta middleware
+2020-06-02 16:14:43,801 INFO 7008 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 16:14:43,829 INFO 7008 [egg:core] dump config after load, 21ms
+2020-06-02 16:14:43,839 INFO 7008 [egg-redis] client connect success
+2020-06-02 16:14:43,842 INFO 7008 [egg-redis] instance[0] status OK, client ready
+2020-06-02 16:14:43,846 INFO 7008 [egg-watcher:application] watcher start success
+2020-06-02 16:14:43,847 INFO 7008 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 16:14:43 GMT+0800 (GMT+08:00)
+2020-06-02 16:14:43,880 INFO 7008 [egg:core] dump config after ready, 31ms
+2020-06-02 16:15:03,135 INFO 16152 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 16:15:03,159 INFO 16152 [egg-multipart] stream mode enable
+2020-06-02 16:15:03,160 INFO 16152 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 16:15:03,241 INFO 16152 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 16:15:03,299 INFO 16152 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 16:15:03,301 INFO 16152 [egg-security] use methodnoallow middleware
+2020-06-02 16:15:03,302 INFO 16152 [egg-security] use noopen middleware
+2020-06-02 16:15:03,302 INFO 16152 [egg-security] use nosniff middleware
+2020-06-02 16:15:03,303 INFO 16152 [egg-security] use xssProtection middleware
+2020-06-02 16:15:03,303 INFO 16152 [egg-security] use xframe middleware
+2020-06-02 16:15:03,304 INFO 16152 [egg-security] use dta middleware
+2020-06-02 16:15:03,304 INFO 16152 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 16:15:03,336 INFO 16152 [egg:core] dump config after load, 27ms
+2020-06-02 16:15:03,346 INFO 16152 [egg-redis] client connect success
+2020-06-02 16:15:03,350 INFO 16152 [egg-redis] instance[0] status OK, client ready
+2020-06-02 16:15:03,353 INFO 16152 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 16:15:03 GMT+0800 (GMT+08:00)
+2020-06-02 16:15:03,355 INFO 16152 [egg-watcher:application] watcher start success
+2020-06-02 16:15:03,387 INFO 16152 [egg:core] dump config after ready, 30ms
+2020-06-02 16:18:37,028 INFO 12336 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-02 16:18:37,052 INFO 12336 [egg-multipart] stream mode enable
+2020-06-02 16:18:37,054 INFO 12336 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-02 16:18:37,133 INFO 12336 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-02 16:18:37,187 INFO 12336 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-06-02 16:18:37,189 INFO 12336 [egg-security] use methodnoallow middleware
+2020-06-02 16:18:37,189 INFO 12336 [egg-security] use noopen middleware
+2020-06-02 16:18:37,190 INFO 12336 [egg-security] use nosniff middleware
+2020-06-02 16:18:37,193 INFO 12336 [egg-security] use xssProtection middleware
+2020-06-02 16:18:37,193 INFO 12336 [egg-security] use xframe middleware
+2020-06-02 16:18:37,194 INFO 12336 [egg-security] use dta middleware
+2020-06-02 16:18:37,194 INFO 12336 [egg-security] compose 6 middlewares into one security middleware
+2020-06-02 16:18:37,222 INFO 12336 [egg:core] dump config after load, 23ms
+2020-06-02 16:18:37,231 INFO 12336 [egg-redis] client connect success
+2020-06-02 16:18:37,235 INFO 12336 [egg-redis] instance[0] status OK, client ready
+2020-06-02 16:18:37,239 INFO 12336 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 02 2020 16:18:37 GMT+0800 (GMT+08:00)
+2020-06-02 16:18:37,240 INFO 12336 [egg-watcher:application] watcher start success
+2020-06-02 16:18:37,272 INFO 12336 [egg:core] dump config after ready, 30ms
+2020-06-02 17:35:37,069 WARN 12336 [ClusterClient:Watcher] follower closed, and try to init it again

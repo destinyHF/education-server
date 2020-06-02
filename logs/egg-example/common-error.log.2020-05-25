@@ -1,0 +1,40 @@
+2020-05-25 13:30:33,816 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 6195870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 15:08:30,665 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 2456502ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 17:31:29,767 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 917644ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 20:34:38,539 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 10808526ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-26 08:45:55,555 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 43874138ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+

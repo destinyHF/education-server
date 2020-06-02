@@ -1,0 +1,53 @@
+2020-05-22 08:57:27,601 INFO 13416 [egg-logrotator] app logger reload: got log-reload message
+2020-05-25 08:51:53,512 INFO 20072 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-25 08:51:53,541 INFO 20072 [egg-multipart] stream mode enable
+2020-05-25 08:51:54,276 INFO 20072 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-05-25 08:51:54,289 INFO 20072 [egg-security] use csrf middleware
+2020-05-25 08:51:54,301 INFO 20072 [egg-security] use methodnoallow middleware
+2020-05-25 08:51:54,311 INFO 20072 [egg-security] use noopen middleware
+2020-05-25 08:51:54,322 INFO 20072 [egg-security] use nosniff middleware
+2020-05-25 08:51:54,329 INFO 20072 [egg-security] use xssProtection middleware
+2020-05-25 08:51:54,338 INFO 20072 [egg-security] use xframe middleware
+2020-05-25 08:51:54,346 INFO 20072 [egg-security] use dta middleware
+2020-05-25 08:51:54,346 INFO 20072 [egg-security] compose 7 middlewares into one security middleware
+2020-05-25 08:51:54,400 INFO 20072 [egg:core] dump config after load, 28ms
+2020-05-25 08:51:54,412 INFO 20072 [egg-watcher:application] watcher start success
+2020-05-25 08:51:54,444 INFO 20072 [egg:core] dump config after ready, 31ms
+2020-05-25 10:12:12,645 INFO 23212 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-25 10:12:12,670 INFO 23212 [egg-multipart] stream mode enable
+2020-05-25 10:12:13,393 INFO 23212 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-05-25 10:12:13,403 INFO 23212 [egg-security] use csrf middleware
+2020-05-25 10:12:13,411 INFO 23212 [egg-security] use methodnoallow middleware
+2020-05-25 10:12:13,419 INFO 23212 [egg-security] use noopen middleware
+2020-05-25 10:12:13,428 INFO 23212 [egg-security] use nosniff middleware
+2020-05-25 10:12:13,435 INFO 23212 [egg-security] use xssProtection middleware
+2020-05-25 10:12:13,443 INFO 23212 [egg-security] use xframe middleware
+2020-05-25 10:12:13,451 INFO 23212 [egg-security] use dta middleware
+2020-05-25 10:12:13,451 INFO 23212 [egg-security] compose 7 middlewares into one security middleware
+2020-05-25 10:12:13,501 INFO 23212 [egg:core] dump config after load, 26ms
+2020-05-25 10:12:13,513 INFO 23212 [egg-watcher:application] watcher start success
+2020-05-25 10:12:13,543 INFO 23212 [egg:core] dump config after ready, 28ms
+2020-05-25 10:12:36,429 INFO 9700 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-25 10:12:36,453 INFO 9700 [egg-multipart] stream mode enable
+2020-05-25 10:12:36,511 INFO 9700 [egg-static] starting static serve /public/ -> C:\houfei-file\project\egg-example\app\public
+2020-05-25 10:12:36,513 INFO 9700 [egg-security] use csrf middleware
+2020-05-25 10:12:36,513 INFO 9700 [egg-security] use methodnoallow middleware
+2020-05-25 10:12:36,514 INFO 9700 [egg-security] use noopen middleware
+2020-05-25 10:12:36,514 INFO 9700 [egg-security] use nosniff middleware
+2020-05-25 10:12:36,515 INFO 9700 [egg-security] use xssProtection middleware
+2020-05-25 10:12:36,515 INFO 9700 [egg-security] use xframe middleware
+2020-05-25 10:12:36,516 INFO 9700 [egg-security] use dta middleware
+2020-05-25 10:12:36,516 INFO 9700 [egg-security] compose 7 middlewares into one security middleware
+2020-05-25 10:12:36,541 INFO 9700 [egg:core] dump config after load, 21ms
+2020-05-25 10:12:36,552 INFO 9700 [egg-watcher:application] watcher start success
+2020-05-25 10:12:36,595 INFO 9700 [egg:core] dump config after ready, 41ms
+2020-05-25 13:30:32,585 WARN 9700 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-25 15:08:30,667 WARN 9700 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-25 17:31:29,783 WARN 9700 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-25 20:34:38,539 WARN 9700 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-26 08:45:55,054 WARN 9700 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-26 08:45:55,326 INFO 9700 [egg-logrotator] clean all log before 31 days
+2020-05-26 08:45:55,551 INFO 9700 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\user\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example"
+2020-05-26 08:45:55,560 INFO 9700 [-/127.0.0.1/-/16ms SCHEDULE /__schedule?path=C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-05-26 08:45:55,654 INFO 9700 [egg-logrotator] broadcast log-reload
+2020-05-26 08:45:55,655 INFO 9700 [egg-logrotator] rotate files success by DayRotator, files ["C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\common-error.log -> C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\common-error.log.2020-05-25","C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-example-web.log -> C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-example-web.log.2020-05-25","C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-web.log -> C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-web.log.2020-05-25","C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-schedule.log -> C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-schedule.log.2020-05-25","C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-agent.log -> C:\\houfei-file\\project\\egg-example\\logs\\egg-example\\egg-agent.log.2020-05-25"]

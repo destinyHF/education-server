@@ -1,0 +1,27 @@
+2020-06-02 14:20:48,938 INFO 6244 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 14:20:48,938 INFO 6244 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 14:20:48,938 INFO 6244 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 14:20:51,189 INFO 16244 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50948813ms at 2020-06-03 04:30:00.002
+2020-06-02 14:20:51,189 INFO 16244 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34748811ms at 2020-06-03 00:00:00.000
+2020-06-02 14:20:51,189 INFO 16244 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34749811ms at 2020-06-03 00:00:01.000
+2020-06-02 14:59:08,482 INFO 1696 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 14:59:08,482 INFO 1696 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 14:59:08,482 INFO 1696 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 16:07:46,732 INFO 4252 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 16:07:46,732 INFO 4252 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 16:07:46,732 INFO 4252 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 16:14:43,648 INFO 7008 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 16:14:43,648 INFO 7008 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 16:14:43,648 INFO 7008 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 16:15:03,159 INFO 16152 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 16:15:03,159 INFO 16152 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 16:15:03,159 INFO 16152 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 16:15:03,392 INFO 11300 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44096610ms at 2020-06-03 04:30:00.002
+2020-06-02 16:15:03,392 INFO 11300 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27896608ms at 2020-06-03 00:00:00.000
+2020-06-02 16:15:03,392 INFO 11300 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27897608ms at 2020-06-03 00:00:01.000
+2020-06-02 16:18:37,052 INFO 12336 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-02 16:18:37,052 INFO 12336 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-02 16:18:37,052 INFO 12336 [egg-schedule]: register schedule C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-02 16:18:37,277 INFO 15388 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43882725ms at 2020-06-03 04:30:00.002
+2020-06-02 16:18:37,278 INFO 15388 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27682722ms at 2020-06-03 00:00:00.000
+2020-06-02 16:18:37,278 INFO 15388 [Timer] C:\houfei-file\project\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27683722ms at 2020-06-03 00:00:01.000

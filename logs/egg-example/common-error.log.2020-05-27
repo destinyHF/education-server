@@ -1,0 +1,349 @@
+2020-05-26 13:35:11,806 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 4316677ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-26 14:28:50,688 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 117682ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 10:27:06,134 ERROR 2552 [-/127.0.0.1/-/20ms GET /user/create] nodejs.TypeError: ctx.validate is not a function
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:7:9)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:45:18)
+    at C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 2552
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 13:30:00,656 ERROR 14508 nodejs.ClusterClientNoResponseError: client no response in 4040080ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14508
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 13:51:15,027 ERROR 6884 [-/127.0.0.1/-/49ms GET /user/create] nodejs.TypeError: Cannot read property 'length' of undefined
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:23:15)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:45:18)
+    at C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6884
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 13:51:48,171 ERROR 6884 [-/127.0.0.1/-/2ms GET /user/create] nodejs.TypeError: Cannot read property 'length' of undefined
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:23:15)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:45:18)
+    at C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6884
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 14:17:16,645 ERROR 12476 [-/127.0.0.1/-/28ms GET /user/create] nodejs.TypeError: Cannot read property 'toJSON' of undefined
+    at Object.toJSON (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:50:29)
+    at Object.inspect (C:\houfei-file\project\egg-example\node_modules\koa\lib\context.js:33:17)
+    at formatValue (internal/util/inspect.js:703:31)
+    at formatProperty (internal/util/inspect.js:1580:11)
+    at formatRaw (internal/util/inspect.js:943:9)
+    at formatValue (internal/util/inspect.js:731:10)
+    at formatProperty (internal/util/inspect.js:1580:11)
+    at formatRaw (internal/util/inspect.js:943:9)
+    at formatValue (internal/util/inspect.js:731:10)
+    at inspect (internal/util/inspect.js:272:10)
+
+pid: 12476
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 14:48:39,558 ERROR 11268 [-/127.0.0.1/-/19ms GET /user/create] nodejs.TypeError: Schema is not a constructor
+    at Object.asyncValidate (C:\houfei-file\project\egg-example\app\extend\context.js:5:12)
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:17:9)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:45:18)
+    at C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+
+pid: 11268
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 14:50:18,669 ERROR 9200 [-/127.0.0.1/-/19ms GET /user/create] nodejs.TypeError: Schema is not a constructor
+    at Object.asyncValidate (C:\houfei-file\project\egg-example\app\extend\context.js:5:13)
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:17:9)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:45:18)
+    at C:\houfei-file\project\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\houfei-file\project\egg-example\node_modules\koa-compose\index.js:44:32)
+
+pid: 9200
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 15:01:14,363 ERROR 12608 [-/127.0.0.1/-/20ms GET /user/create] nodejs.Error: Unknown rule type password
+    at Schema.getType (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1411:13)
+    at Schema.getValidationMethod (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1432:28)
+    at C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1260:32
+    at Array.forEach (<anonymous>)
+    at C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1241:11
+    at Array.forEach (<anonymous>)
+    at Schema.validate (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1238:10)
+    at Object.asyncValidate (C:\houfei-file\project\egg-example\app\extend\context.js:5:31)
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:17:9)
+    at Object.callFn (C:\houfei-file\project\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+
+pid: 12608
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 15:47:18,761 ERROR 1124 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\houfei-file\\project\\egg-example\\app\\service\\user"
+name: "EPERMError"
+pid: 1124
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 16:01:31,214 ERROR 14344 [-/127.0.0.1/-/21ms GET /user/create] nodejs.Error: Async Validation Error
+    at next (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:313:40)
+    at count (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:223:7)
+    at cb (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1318:11)
+    at Object.string [as validator] (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:647:3)
+    at C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:1381:20
+    at C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:228:5
+    at Array.forEach (<anonymous>)
+    at asyncParallelArray (C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:227:7)
+    at C:\houfei-file\project\egg-example\node_modules\async-validator\dist-node\index.js:328:9
+    at Array.forEach (<anonymous>)
+errors: [{"message":"密码长度必须在9-30个字符之间！","field":"password"}]
+fields: {"password":[{"message":"密码长度必须在9-30个字符之间！","field":"password"}]}
+pid: 14344
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 16:15:20,956 ERROR 7944 [-/127.0.0.1/-/2ms GET /user/create] nodejs.TypeError: Cannot read property 'length' of undefined
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:7:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\houfei-file\project\egg-example\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7944
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 16:57:24,042 ERROR 9780 [-/127.0.0.1/-/37ms GET /user/create] nodejs.TypeError: this.app.mysql.read is not a function
+    at module.exports.checkUsernameRepeat (C:\houfei-file\project\egg-example\app\service\user.js:34:42)
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:7:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 9780
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 16:59:11,682 ERROR 7508 [-/127.0.0.1/-/23ms GET /user/create] nodejs.TypeError: this.ctx.app.mysql.read is not a function
+    at module.exports.checkUsernameRepeat (C:\houfei-file\project\egg-example\app\service\user.js:34:46)
+    at module.exports.create (C:\houfei-file\project\egg-example\app\controller\user.js:7:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\houfei-file\project\egg-example\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\houfei-file\project\egg-example\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\houfei-file\project\egg-example\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\houfei-file\project\egg-example\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 7508
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 17:36:30,364 ERROR 10672 nodejs.unhandledRejectionError: ER_BAD_FIELD_ERROR: Unknown column 'create-time' in 'field list'
+    at Query.Sequence._packetToError (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\houfei-file\project\egg-example\node_modules\co\index.js:65:19)
+    at C:\houfei-file\project\egg-example\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', 1590572190359)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'create-time' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', 1590572190359)"
+name: "unhandledRejectionError"
+pid: 10672
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 17:37:40,462 ERROR 5864 nodejs.unhandledRejectionError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '1590572260459' for column 'create-time' at row 1
+    at Query.Sequence._packetToError (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\houfei-file\project\egg-example\node_modules\co\index.js:65:19)
+    at C:\houfei-file\project\egg-example\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', 1590572260459)
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '1590572260459' for column 'create-time' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', 1590572260459)"
+name: "unhandledRejectionError"
+pid: 5864
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 17:44:20,638 ERROR 9944 nodejs.unhandledRejectionError: ER_BAD_FIELD_ERROR: Unknown column 'createTime' in 'field list'
+    at Query.Sequence._packetToError (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\houfei-file\project\egg-example\node_modules\co\index.js:65:19)
+    at C:\houfei-file\project\egg-example\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `createTime`) VALUES('houfei', 'houfei429119', '2020-05-27 17:44:20.635')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'createTime' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `createTime`) VALUES('houfei', 'houfei429119', '2020-05-27 17:44:20.635')"
+name: "unhandledRejectionError"
+pid: 9944
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 17:44:50,693 ERROR 484 nodejs.unhandledRejectionError: ER_NO_DEFAULT_FOR_FIELD: Field 'id' doesn't have a default value
+    at Query.Sequence._packetToError (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\houfei-file\project\egg-example\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (C:\houfei-file\project\egg-example\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (C:\houfei-file\project\egg-example\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (C:\houfei-file\project\egg-example\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\houfei-file\project\egg-example\node_modules\co\index.js:65:19)
+    at C:\houfei-file\project\egg-example\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', '2020-05-27 17:44:50.690')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'id' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `create-time`) VALUES('houfei', 'houfei429119', '2020-05-27 17:44:50.690')"
+name: "unhandledRejectionError"
+pid: 484
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-27 20:53:05,116 ERROR 16088 nodejs.ClusterClientNoResponseError: client no response in 10806516ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 16088
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-28 08:47:37,026 ERROR 16088 nodejs.ClusterClientNoResponseError: client no response in 42870876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 16088
+hostname: LAPTOP-KV9DE7QA
+

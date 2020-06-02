@@ -1,0 +1,74 @@
+2020-05-22 08:57:27,702 INFO 16744 [egg-logrotator] agent logger reload: got log-reload message
+2020-05-25 08:51:51,283 INFO 16248 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-25 08:51:51,312 INFO 16248 [egg:core] dump config after load, 24ms
+2020-05-25 08:51:51,553 INFO 16248 [egg-watcher] Start watching: ["C:\\houfei-file\\project\\egg-example\\app","C:\\houfei-file\\project\\egg-example\\config","C:\\houfei-file\\project\\egg-example\\mocks","C:\\houfei-file\\project\\egg-example\\mocks_proxy","C:\\houfei-file\\project\\egg-example\\app.js"]
+2020-05-25 08:51:51,553 INFO 16248 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app"
+2020-05-25 08:51:51,553 INFO 16248 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\config"
+2020-05-25 08:51:51,553 INFO 16248 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks"
+2020-05-25 08:51:51,554 INFO 16248 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks_proxy"
+2020-05-25 08:51:51,554 INFO 16248 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app.js"
+2020-05-25 08:51:51,554 INFO 16248 [egg-watcher:agent] watcher start success
+2020-05-25 08:51:51,600 INFO 16248 [egg:core] dump config after ready, 38ms
+2020-05-25 10:12:10,511 INFO 17040 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-25 10:12:10,537 INFO 17040 [egg:core] dump config after load, 23ms
+2020-05-25 10:12:10,784 INFO 17040 [egg-watcher] Start watching: ["C:\\houfei-file\\project\\egg-example\\app","C:\\houfei-file\\project\\egg-example\\config","C:\\houfei-file\\project\\egg-example\\mocks","C:\\houfei-file\\project\\egg-example\\mocks_proxy","C:\\houfei-file\\project\\egg-example\\app.js"]
+2020-05-25 10:12:10,784 INFO 17040 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app"
+2020-05-25 10:12:10,784 INFO 17040 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\config"
+2020-05-25 10:12:10,785 INFO 17040 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks"
+2020-05-25 10:12:10,785 INFO 17040 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks_proxy"
+2020-05-25 10:12:10,785 INFO 17040 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app.js"
+2020-05-25 10:12:10,786 INFO 17040 [egg-watcher:agent] watcher start success
+2020-05-25 10:12:10,821 INFO 17040 [egg:core] dump config after ready, 30ms
+2020-05-25 10:12:32,401 INFO 17040 [egg-watcher] Received a change event from eventSource: {"path":"C:\\houfei-file\\project\\egg-example\\app.js","event":"change","stat":{"dev":3020671280,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":5348024557601166,"size":319,"blocks":0,"atimeMs":1590372752401.0293,"mtimeMs":1590372752401.0293,"ctimeMs":1590372752401.0293,"birthtimeMs":1590371930434.6577,"atime":"2020-05-25T02:12:32.401Z","mtime":"2020-05-25T02:12:32.401Z","ctime":"2020-05-25T02:12:32.401Z","birthtime":"2020-05-25T01:58:50.435Z"}}
+2020-05-25 10:12:32,403 INFO 17040 [egg-watcher] Received a change event from eventSource: {"path":"C:\\houfei-file\\project\\egg-example\\app.js","event":"change","stat":{"dev":3020671280,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":5348024557601166,"size":319,"blocks":0,"atimeMs":1590372752401.0293,"mtimeMs":1590372752401.0293,"ctimeMs":1590372752401.0293,"birthtimeMs":1590371930434.6577,"atime":"2020-05-25T02:12:32.401Z","mtime":"2020-05-25T02:12:32.401Z","ctime":"2020-05-25T02:12:32.401Z","birthtime":"2020-05-25T01:58:50.435Z"}}
+2020-05-25 10:12:32,407 INFO 17040 [egg-watcher] Received a change event from eventSource: {"path":"C:\\houfei-file\\project\\egg-example\\app.js","event":"change","stat":{"dev":3020671280,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":5348024557601166,"size":319,"blocks":0,"atimeMs":1590372752401.0293,"mtimeMs":1590372752401.0293,"ctimeMs":1590372752401.0293,"birthtimeMs":1590371930434.6577,"atime":"2020-05-25T02:12:32.401Z","mtime":"2020-05-25T02:12:32.401Z","ctime":"2020-05-25T02:12:32.401Z","birthtime":"2020-05-25T01:58:50.435Z"}}
+2020-05-25 10:12:35,676 INFO 14136 [egg:logger] init all loggers with options: {"dir":"C:\\houfei-file\\project\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-25 10:12:35,699 INFO 14136 [egg:core] dump config after load, 19ms
+2020-05-25 10:12:35,737 INFO 14136 [egg-watcher] Start watching: ["C:\\houfei-file\\project\\egg-example\\app","C:\\houfei-file\\project\\egg-example\\config","C:\\houfei-file\\project\\egg-example\\mocks","C:\\houfei-file\\project\\egg-example\\mocks_proxy","C:\\houfei-file\\project\\egg-example\\app.js"]
+2020-05-25 10:12:35,737 INFO 14136 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app"
+2020-05-25 10:12:35,738 INFO 14136 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\config"
+2020-05-25 10:12:35,738 INFO 14136 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks"
+2020-05-25 10:12:35,738 INFO 14136 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\mocks_proxy"
+2020-05-25 10:12:35,738 INFO 14136 [egg-watcher] Start watching: "C:\\houfei-file\\project\\egg-example\\app.js"
+2020-05-25 10:12:35,739 INFO 14136 [egg-watcher:agent] watcher start success
+2020-05-25 10:12:35,774 INFO 14136 [egg:core] dump config after ready, 30ms
+2020-05-25 13:30:34,062 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 6195870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 15:08:30,683 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 2456502ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 17:31:29,889 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 917644ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-25 20:34:38,541 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 10808526ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
+2020-05-26 08:45:55,570 ERROR 14136 nodejs.ClusterClientNoResponseError: client no response in 43874138ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei-file\project\egg-example\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 14136
+hostname: LAPTOP-KV9DE7QA
+
