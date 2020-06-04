@@ -14,3 +14,27 @@ name: "ClusterClientNoResponseError"
 pid: 15388
 hostname: LAPTOP-KV9DE7QA
 
+2020-06-04 11:40:04,917 ERROR 1944 nodejs.ClusterClientNoResponseError: client no response in 78712ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei\my-project\education-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1944
+hostname: DESKTOP-T1KLP6I
+
+2020-06-04 12:21:02,813 ERROR 3148 nodejs.ClusterClientNoResponseError: client no response in 1253104ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei\my-project\education-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3148
+hostname: DESKTOP-T1KLP6I
+
+2020-06-04 13:34:30,180 ERROR 3148 nodejs.ClusterClientNoResponseError: client no response in 3987347ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei\my-project\education-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 3148
+hostname: DESKTOP-T1KLP6I
+

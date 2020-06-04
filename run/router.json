@@ -5,8 +5,8 @@
       "POST"
     ],
     "paramNames": [],
-    "path": "/user/create",
-    "regexp": "/^\\/user\\/create(?:\\/(?=$))?$/",
+    "path": "/auth/autoLogin",
+    "regexp": "/^\\/auth\\/autoLogin(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]
@@ -19,6 +19,18 @@
     "paramNames": [],
     "path": "/auth/login",
     "regexp": "/^\\/auth\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/user/create",
+    "regexp": "/^\\/user\\/create(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

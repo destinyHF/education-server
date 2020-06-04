@@ -1,300 +1,300 @@
 {
-  "keys": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
+  "keys": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
   "view": {
-    "defaultViewEngine": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
+    "defaultViewEngine": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
     "mapping": {
-      ".tpl": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js"
+      ".tpl": "C:\\houfei\\my-project\\education-server\\config\\config.default.js"
     },
-    "root": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view\\config\\config.default.js"
   },
   "news": {
-    "pageSize": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-    "serverUrl": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js"
+    "pageSize": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+    "serverUrl": "C:\\houfei\\my-project\\education-server\\config\\config.default.js"
   },
   "mysql": {
     "client": {
-      "host": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "port": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "user": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "password": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "database": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js"
+      "host": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "port": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "user": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "password": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "database": "C:\\houfei\\my-project\\education-server\\config\\config.default.js"
     },
-    "app": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-    "agent": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
+    "app": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+    "agent": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
     "default": {
-      "database": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-mysql\\config\\config.default.js",
-      "connectionLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-mysql\\config\\config.default.js"
+      "database": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-mysql\\config\\config.default.js"
     }
   },
   "security": {
-    "csrf": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-    "domainWhiteList": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+    "domainWhiteList": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "redis": {
     "client": {
-      "port": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "host": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "password": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js",
-      "db": "C:\\houfei-file\\project\\egg-example\\config\\config.default.js"
+      "port": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "host": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "password": "C:\\houfei\\my-project\\education-server\\config\\config.default.js",
+      "db": "C:\\houfei\\my-project\\education-server\\config\\config.default.js"
     },
-    "default": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-redis\\config\\config.default.js",
-    "app": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-redis\\config\\config.default.js",
-    "agent": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-redis\\config\\config.default.js",
-    "supportTimeCommand": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-redis\\config\\config.default.js"
+    "default": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-redis\\config\\config.default.js",
+    "app": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-redis\\config\\config.default.js",
+    "agent": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-redis\\config\\config.default.js",
+    "supportTimeCommand": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-redis\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-static\\config\\config.default.js"
   },
   "nunjucks": {
-    "autoescape": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "throwOnUndefined": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "trimBlocks": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "lstripBlocks": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "cache": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+    "autoescape": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
   },
-  "validate": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg-validate\\config\\config.default.js",
-  "env": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "name": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "validate": "C:\\houfei\\my-project\\education-server\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "version": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "description": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "main": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "name": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
     "scripts": {
-      "test": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "dev": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "test": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "license": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
-      "async-validator": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg-mysql": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg-redis": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg-validate": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg-view-nunjucks": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "moment": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "async-validator": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "egg": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "moment": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "egg-bin": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     }
   },
-  "baseDir": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "strict": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "depth": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     },
-    "onerror": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "env": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "level": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dir": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "logging": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "enable": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "port": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "path": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "C:\\houfei-file\\project\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "C:\\houfei\\my-project\\education-server\\node_modules\\egg\\config\\config.default.js"
 }
