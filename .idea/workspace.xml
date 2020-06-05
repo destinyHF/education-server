@@ -19,23 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424c8997-221f-48a3-a8b3-1870c85d876f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="424c8997-221f-48a3-a8b3-1870c85d876f" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/run/agent_timing_6220.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/application_timing_11096.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controller/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/controller/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/service/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/service/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/egg-example/common-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/egg-example/common-error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/egg-example/egg-agent.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/egg-example/egg-agent.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/egg-example/egg-schedule.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/egg-example/egg-schedule.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/egg-example/egg-web.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/egg-example/egg-web.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/agent_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/agent_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/agent_config_meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/agent_config_meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/agent_timing_15388.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/application_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/application_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/application_config_meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/application_config_meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/application_timing_12336.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/router.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/router.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/agent_timing_3148.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/application_timing_9920.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +45,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cCpK8SquDbO2JZqX4zM0KtI6qE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -108,8 +104,17 @@
       <workItem from="1590540756472" duration="53569000" />
       <workItem from="1590993548428" duration="7149000" />
       <workItem from="1591078763017" duration="4158000" />
-      <workItem from="1591234097261" duration="8800000" />
+      <workItem from="1591234097261" duration="9452000" />
+      <workItem from="1591318937244" duration="1125000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1591260953922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591260953922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,36 +130,42 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="706" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590043509607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590043509607" />
-    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1591234101037">
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1591318968313">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591234101037" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591318968313" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591079730436" />
-    <state width="1515" height="118" key="GridCell.Tab.0.bottom" timestamp="1591242213375">
+    <state width="1515" height="118" key="GridCell.Tab.0.bottom" timestamp="1591319070471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591242213375" />
+    <state width="1515" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591319070471" />
     <state width="1899" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591085914356" />
-    <state width="1515" height="118" key="GridCell.Tab.0.center" timestamp="1591242213375">
+    <state width="1515" height="118" key="GridCell.Tab.0.center" timestamp="1591319070471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591242213375" />
+    <state width="1515" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591319070471" />
     <state width="1899" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591085914356" />
-    <state width="1515" height="118" key="GridCell.Tab.0.left" timestamp="1591242213375">
+    <state width="1515" height="118" key="GridCell.Tab.0.left" timestamp="1591319070471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591242213375" />
+    <state width="1515" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591319070471" />
     <state width="1899" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591085914355" />
-    <state width="1515" height="118" key="GridCell.Tab.0.right" timestamp="1591242213375">
+    <state width="1515" height="118" key="GridCell.Tab.0.right" timestamp="1591319070471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591242213375" />
+    <state width="1515" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591319070471" />
     <state width="1899" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591085914356" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1591242026972">
       <screen x="0" y="0" width="1536" height="824" />
@@ -208,6 +219,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590540801482" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591260959042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591260959042" />
     <state x="662" y="223" width="596" height="594" key="find.popup" timestamp="1590719372470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

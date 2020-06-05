@@ -649,3 +649,41 @@
 2020-06-04 11:40:29,716 INFO 9920 [egg:core] dump config after ready, 28ms
 2020-06-04 12:21:02,813 WARN 9920 [ClusterClient:Watcher] follower closed, and try to init it again
 2020-06-04 13:34:30,181 WARN 9920 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 08:53:05,836 INFO 7984 [egg:logger] init all loggers with options: {"dir":"C:\\houfei\\my-project\\education-server\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 08:53:05,866 INFO 7984 [egg-multipart] stream mode enable
+2020-06-05 08:53:05,874 INFO 7984 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-05 08:53:07,268 INFO 7984 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-05 08:53:08,104 INFO 7984 [egg-static] starting static serve /public/ -> C:\houfei\my-project\education-server\app\public
+2020-06-05 08:53:08,114 INFO 7984 [egg-security] use methodnoallow middleware
+2020-06-05 08:53:08,121 INFO 7984 [egg-security] use noopen middleware
+2020-06-05 08:53:08,130 INFO 7984 [egg-security] use nosniff middleware
+2020-06-05 08:53:08,137 INFO 7984 [egg-security] use xssProtection middleware
+2020-06-05 08:53:08,145 INFO 7984 [egg-security] use xframe middleware
+2020-06-05 08:53:08,153 INFO 7984 [egg-security] use dta middleware
+2020-06-05 08:53:08,153 INFO 7984 [egg-security] compose 6 middlewares into one security middleware
+2020-06-05 08:53:08,223 INFO 7984 [egg:core] dump config after load, 27ms
+2020-06-05 08:53:08,236 INFO 7984 [egg-redis] client connect success
+2020-06-05 08:53:08,242 INFO 7984 [egg-redis] instance[0] status OK, client ready
+2020-06-05 08:53:08,246 INFO 7984 [egg-watcher:application] watcher start success
+2020-06-05 08:53:08,250 INFO 7984 [egg-mysql] instance[0] status OK, rds currentTime: Fri Jun 05 2020 08:53:08 GMT+0800 (GMT+08:00)
+2020-06-05 08:53:08,292 INFO 7984 [egg:core] dump config after ready, 40ms
+2020-06-05 09:04:20,468 INFO 11096 [egg:logger] init all loggers with options: {"dir":"C:\\houfei\\my-project\\education-server\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 09:04:20,490 INFO 11096 [egg-multipart] stream mode enable
+2020-06-05 09:04:20,497 INFO 11096 [egg-mysql] connecting root@127.0.0.1:3306/egg-test
+2020-06-05 09:04:21,538 INFO 11096 [egg-redis] server connecting redis://:***@127.0.0.1:6379/0
+2020-06-05 09:04:22,244 INFO 11096 [egg-static] starting static serve /public/ -> C:\houfei\my-project\education-server\app\public
+2020-06-05 09:04:22,251 INFO 11096 [egg-security] use methodnoallow middleware
+2020-06-05 09:04:22,257 INFO 11096 [egg-security] use noopen middleware
+2020-06-05 09:04:22,263 INFO 11096 [egg-security] use nosniff middleware
+2020-06-05 09:04:22,268 INFO 11096 [egg-security] use xssProtection middleware
+2020-06-05 09:04:22,274 INFO 11096 [egg-security] use xframe middleware
+2020-06-05 09:04:22,280 INFO 11096 [egg-security] use dta middleware
+2020-06-05 09:04:22,280 INFO 11096 [egg-security] compose 6 middlewares into one security middleware
+2020-06-05 09:04:22,402 INFO 11096 [egg:core] dump config after load, 41ms
+2020-06-05 09:04:22,412 INFO 11096 [egg-redis] client connect success
+2020-06-05 09:04:22,417 INFO 11096 [egg-redis] instance[0] status OK, client ready
+2020-06-05 09:04:22,420 INFO 11096 [egg-mysql] instance[0] status OK, rds currentTime: Fri Jun 05 2020 09:04:22 GMT+0800 (GMT+08:00)
+2020-06-05 09:04:22,422 INFO 11096 [egg-watcher:application] watcher start success
+2020-06-05 09:04:22,461 INFO 11096 [egg:core] dump config after ready, 37ms
+2020-06-05 12:19:52,530 WARN 11096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 13:30:32,745 WARN 11096 [ClusterClient:Watcher] follower closed, and try to init it again

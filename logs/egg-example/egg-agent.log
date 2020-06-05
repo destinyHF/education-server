@@ -536,3 +536,39 @@ name: "ClusterClientNoResponseError"
 pid: 3148
 hostname: DESKTOP-T1KLP6I
 
+2020-06-05 08:53:03,595 INFO 6404 [egg:logger] init all loggers with options: {"dir":"C:\\houfei\\my-project\\education-server\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-05 08:53:03,616 INFO 6404 [egg:core] dump config after load, 18ms
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: ["C:\\houfei\\my-project\\education-server\\app","C:\\houfei\\my-project\\education-server\\config","C:\\houfei\\my-project\\education-server\\mocks","C:\\houfei\\my-project\\education-server\\mocks_proxy","C:\\houfei\\my-project\\education-server\\app.js"]
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\app"
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\config"
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\mocks"
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\mocks_proxy"
+2020-06-05 08:53:03,867 INFO 6404 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\app.js"
+2020-06-05 08:53:03,869 INFO 6404 [egg-watcher:agent] watcher start success
+2020-06-05 08:53:03,929 INFO 6404 [egg:core] dump config after ready, 51ms
+2020-06-05 09:04:18,806 INFO 6220 [egg:logger] init all loggers with options: {"dir":"C:\\houfei\\my-project\\education-server\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-05 09:04:18,823 INFO 6220 [egg:core] dump config after load, 14ms
+2020-06-05 09:04:19,000 INFO 6220 [egg-watcher] Start watching: ["C:\\houfei\\my-project\\education-server\\app","C:\\houfei\\my-project\\education-server\\config","C:\\houfei\\my-project\\education-server\\mocks","C:\\houfei\\my-project\\education-server\\mocks_proxy","C:\\houfei\\my-project\\education-server\\app.js"]
+2020-06-05 09:04:19,000 INFO 6220 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\app"
+2020-06-05 09:04:19,000 INFO 6220 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\config"
+2020-06-05 09:04:19,000 INFO 6220 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\mocks"
+2020-06-05 09:04:19,000 INFO 6220 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\mocks_proxy"
+2020-06-05 09:04:19,001 INFO 6220 [egg-watcher] Start watching: "C:\\houfei\\my-project\\education-server\\app.js"
+2020-06-05 09:04:19,001 INFO 6220 [egg-watcher:agent] watcher start success
+2020-06-05 09:04:19,030 INFO 6220 [egg:core] dump config after ready, 23ms
+2020-06-05 12:19:52,551 ERROR 6220 nodejs.ClusterClientNoResponseError: client no response in 1129394ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei\my-project\education-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6220
+hostname: DESKTOP-T1KLP6I
+
+2020-06-05 13:30:32,752 ERROR 6220 nodejs.ClusterClientNoResponseError: client no response in 2920143ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\houfei\my-project\education-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6220
+hostname: DESKTOP-T1KLP6I
+
